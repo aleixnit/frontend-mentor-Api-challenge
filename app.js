@@ -1,7 +1,7 @@
 let button = document.querySelector('#dado'); // ¡Buena suerte!
 let advice = document.querySelector('.card__quote');
 let adviceID = document.querySelector('#adviceID');
-
+2
 button.addEventListener("click", function () {
     getNote();
   });
